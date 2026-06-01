@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Tutorial on Mathematical Methods"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "KNUST, Mathematics Department"
+date: 2025
+location: "Kumasi, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I co-facilitated lectures and tutorial sessions on Mathematical Methods, developing and
+organizing course materials that improved student comprehension and readiness for
+subsequent undergraduate studies.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

@@ -27,8 +27,8 @@ author:
   name             : "Priscilla Obo"
   pronouns         : # example: "she/her"  
   bio              : "Msc Data Science"
-  location         : ""
-  employer         : ""
+  location         : # ""
+  employer         : # ""
   uri              : # URL
   email            : "priscillaobootoo@gmail.com" 
 
