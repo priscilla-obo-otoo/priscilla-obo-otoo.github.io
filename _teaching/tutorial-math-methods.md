@@ -2,7 +2,7 @@
 title: "Tutorial on Mathematical Methods"
 collection: teaching
 type: "Undergraduate course"
-# permalink: teaching/tutorial-math-methods
+# permalink: /teaching/tutorial-math-methods
 venue: "KNUST, Mathematics Department"
 date: 2024-10-02
 location: "Kumasi, Ghana"

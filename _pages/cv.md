@@ -11,47 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mathematical Sciences (Major: Data Science), African Institute for Mathematical Sciences, 2026
+* B.S. in Mathematics, Kwame Nkrumah University of Science and Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2024 - August 2025: Teaching and Research Assistant
+  * Kwame Nkrumah University of Science and Technology
+  * Duties includes: Co-facilitated lectures and tutorial sessions on Mathematical Methods, developing and
+organizing course materials that improved student comprehension and readiness for
+subsequent undergraduate studies.
+  * Supervisor: Very Rev. Professor William Obeng Denteh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October – December, 2022: Auditing Assistant Intern
+  * Atwima Nwabiagya North District Assembly (ANNDA)
+  * Duties included: Conducted thorough analysis of financial data (including payment vouchers) using Excel,
+identifying irregularities and trends that contributed to effective audit findings which
+informed the decisions of the district assembly. I also delivered detailed written audit reports for senior auditors and district assembly manage-
+ment, effectively communicating findings, recommendations, and evidence to facilitate
+informed decision-making raising a high standard of accountability in the district office.
+  * Supervisor: Mr. Nyame
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, and R
+* Technical:
+  * Biostatistics
+  * Data Analysis
+  * Mathematical Modeling
+  * Statistical Inference with applications inhealth
+* Soft Skills
+  * Analytical thinking
+  * Strong communication
+  * Teamwork
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#   <ul>{% for post in site.publications reversed %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
+# 
+# Talks
+# ======
+#   <ul>{% for post in site.talks reversed %}
+#     {% include archive-single-talk-cv.html  %}
+#   {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +64,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
