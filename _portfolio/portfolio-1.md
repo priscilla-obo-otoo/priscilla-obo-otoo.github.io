@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pathway Analysis for Proteomics Data"
+excerpt: "Investigating pathway enrichment approaches for identifying biologically meaningful protein signatures."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+Master's thesis at AIMS Cameroon, supervised by Dr. Christiana Kartsonaki (University of Oxford).
+
+## Methods
+
+Three complementary pathway analysis approaches were implemented and compared in R using Bioconductor packages.
+
+## Tools
+
+R · Bioconductor · clusterProfiler · enrichplot · ggplot2
