@@ -27,8 +27,7 @@ subsequent undergraduate studies.
   * Atwima Nwabiagya North District Assembly (ANNDA)
   * Duties included: Conducted thorough analysis of financial data (including payment vouchers) using Excel,
 identifying irregularities and trends that contributed to effective audit findings which
-informed the decisions of the district assembly. I also delivered detailed written audit reports for senior auditors and district assembly manage-
-ment, effectively communicating findings, recommendations, and evidence to facilitate
+informed the decisions of the district assembly. I also delivered detailed written audit reports for senior auditors and district assembly management, effectively communicating findings, recommendations, and evidence to facilitate
 informed decision-making raising a high standard of accountability in the district office.
   * Supervisor: Mr. Nyame
 
