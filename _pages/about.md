@@ -10,14 +10,12 @@ redirect_from:
 Hi, I'm Priscilla Obo. I hold a Master's degree in Mathematical Sciences 
 (Data Science) from the [African Institute for Mathematical Sciences (AIMS) 
 Cameroon](https://aims-cameroon.org/) and a Bachelor's degree in Mathematics 
-from the [Kwame Nkrumah University of Science and Technology (KNUST)]
-(https://www.knust.edu.gh/), Ghana.
+from the [Kwame Nkrumah University of Science and Technology (KNUST)](https://www.knust.edu.gh/), Ghana.
 
 My Master's thesis investigated pathway analysis methods for proteomics data, 
 combining over-representation analysis (ORA), gene set enrichment analysis 
 (GSEA), and Rényi entropy-based approaches to identify biologically meaningful 
-protein signatures. This work was supervised by [Dr. Christiana Kartsonaki]
-(https://www.ndph.ox.ac.uk/team/christiana-kartsonaki) with tutorial guidance 
+protein signatures. This work was supervised by [Dr. Christiana Kartsonaki](https://www.ndph.ox.ac.uk/team/christiana-kartsonaki) with tutorial guidance 
 from [Edmond Sanou](https://desanou.github.io/).
 
 I am broadly interested in the intersection of Data Science and health 
